@@ -6,8 +6,7 @@ Pod::Spec.new do |s|
   s.summary      = "A fast and convenient conversion between JSON and model"
   s.homepage     = "https://github.com/jiangshouhe/JSHExtension"
   s.license      = "MIT"
-  s.author             = { "jiangshouhe" => "jianghe19870928@126.com" }
-  s.social_media_url   = "http://weibo.com/exceptions"
+  s.author             = { "jiangshouhe" => "jianghe19870928@126.com" }  
   s.source       = { :git => "https://github.com/jiangshouhe/JSHExtension.git", :tag => s.version }
   s.source_files  = "JSHExtensionExample/JSHExtension"
   s.requires_arc = true
